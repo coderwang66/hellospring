@@ -1,0 +1,14 @@
+server:
+  port: 90
+  servlet:
+    context-path: /ko
+person:
+  name: andy
+  age: 18
+  sex: 男
+  hobby:
+    - football
+    - basketball
+  score:
+    java: 100
+    oracle: 99
